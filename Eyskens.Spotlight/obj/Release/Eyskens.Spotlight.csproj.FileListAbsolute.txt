@@ -1,0 +1,6 @@
+c:\users\stephane\documents\visual studio 2013\Projects\Eyskens.Spotlight\Eyskens.Spotlight\bin\Release\Eyskens.Spotlight.dll
+c:\users\stephane\documents\visual studio 2013\Projects\Eyskens.Spotlight\Eyskens.Spotlight\bin\Release\Eyskens.Spotlight.pdb
+c:\users\stephane\documents\visual studio 2013\Projects\Eyskens.Spotlight\Eyskens.Spotlight\bin\Release\Newtonsoft.Json.dll
+c:\users\stephane\documents\visual studio 2013\Projects\Eyskens.Spotlight\Eyskens.Spotlight\bin\Release\Newtonsoft.Json.xml
+c:\users\stephane\documents\visual studio 2013\Projects\Eyskens.Spotlight\Eyskens.Spotlight\obj\Release\Eyskens.Spotlight.dll
+c:\users\stephane\documents\visual studio 2013\Projects\Eyskens.Spotlight\Eyskens.Spotlight\obj\Release\Eyskens.Spotlight.pdb
